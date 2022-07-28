@@ -1,2 +1,2 @@
-# aluracourse
+#BasicCourse
 Data Science Course
